@@ -4,7 +4,7 @@
 - ⚡ Estudante Python 
 <div align="left">
   <a href="https://github.com/FigueredoDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="155em" align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FigueredoDev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
