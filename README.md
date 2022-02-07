@@ -1,16 +1,22 @@
-### Olá! Eu Sou Jhonata Figueredo 🙃
+### Olá! Eu Sou Jhonata Figueredo 
+## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Em busca de novas oportunidades
 - 💻 Cursando Sistema da Informação
 - ⚡ Estudante Python 
-<div align="left">
-  <a href="https://github.com/FigueredoDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<div>
+<a href="https://github.com/FigueredoDev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FigueredoDev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
+  
+### Ferramentas e Tecnologias
+
+  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://github.com/ncode-dev/ncode/blob/main/ncode_amd64_stable/usr/bin/ncode/img/ncode.png">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Ubuntu" height="30" width="35" src="https://github.com/ncode-dev/ncode/blob/main/ncode_amd64_stable/usr/bin/ncode/img/ncode.png">
 </div>
   
 ##
