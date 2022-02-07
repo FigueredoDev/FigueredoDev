@@ -3,10 +3,9 @@
 - 🔭 Em busca de novas oportunidades
 - 💻 Cursando Sistema da Informação
 - ⚡ Estudante Python 
-<div>
-<a href="https://github.com/FigueredoDev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FigueredoDev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="left">
+  <a href="https://github.com/FigueredoDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Ferramentas e Tecnologias
