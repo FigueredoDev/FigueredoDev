@@ -15,7 +15,6 @@
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Ubuntu" height="30" width="35" src="https://github.com/ncode-dev/ncode/blob/main/ncode_amd64_stable/usr/bin/ncode/img/ncode.png">
 </div>
   
 ##
