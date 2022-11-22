@@ -1,4 +1,3 @@
-### Hello! 
 # 💫 About Me:
 ⚡ I’m Jhonata Figueredo<br> 🤝 I’m looking for help with my firt job<br>🌱 I’m currently learning Python<br>💬 Ask me about what need
 
