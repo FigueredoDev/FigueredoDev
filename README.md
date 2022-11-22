@@ -5,7 +5,7 @@
 - ⚡ Estudante Python 
 <div align="left">
   <a href="https://github.com/FigueredoDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=FigueredoDev&repo=FigueredoDev&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FigueredoDev&show_icons=true&theme=github_dark&include_all_commits=true"/>
 </div>
   
 ### Ferramentas e Tecnologias
