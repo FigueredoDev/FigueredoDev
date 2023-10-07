@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonata Figueredo</h1>
-<h3 align="center">Passionate Frontend Developer | Brazil</h3>
+<h3 align="center">Developer passionate about technology | Brazil</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jhonata-figueredo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Jhonata%20Figueredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jhonata-figueredo" /></a>
@@ -16,10 +16,10 @@ I'm a passionate frontend developer from Brazil, dedicated to creating robust an
 ### 🚀 Skills and Technologies
 
 - **Frontend:** HTML, CSS, JavaScript, React, Vue.js
-- **Backend:** Node.js
+- **Backend:** Node.js, Bun
 - **Testing:** Jest, Testing Library, Selenium, Cypress
 - **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, PgAdmin
 
 ### 🔭 Currently Working On
 
