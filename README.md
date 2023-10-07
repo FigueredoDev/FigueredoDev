@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate frontend developer from Brazil, dedicated to creating robust and delightful web applications. With expertise in JavaScript, React, and Vue.js, I enjoy building user-friendly interfaces and bringing ideas to life through code. I'm always eager to learn and implement new technologies to enhance the development process and deliver high-quality solutions.
+I'm developer from Brazil, dedicated to creating robust and delightful web applications. With expertise in JavaScript, React, and Vue.js, I enjoy building user-friendly interfaces and bringing ideas to life through code. I'm always eager to learn and implement new technologies to enhance the development process and deliver high-quality solutions.
 
 ### 🚀 Skills and Technologies
 
