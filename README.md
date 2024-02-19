@@ -16,10 +16,10 @@ I'm developer from Brazil, dedicated to creating robust and delightful web appli
 ### 🚀 Skills and Technologies
 
 - **Frontend:** HTML, CSS, Typescript, React, Vue.js
-- **Backend:** Node.js, Bun, Prisma, Express
-- **Testing:** Jest, Testing Library, Selenium, Cypress
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, VS Code, PgAdmin
+- **Backend:** Node.js, Bun, Prisma, Express, PHP, Laravel
+- **Testing:** Jest, Testing Library, Selenium, Cypress, PHPUnit
+- **Database:** MongoDB, PostgreSQL, MySql
+- **Tools:** Git, VS Code, PgAdmin, Postman
 
 ### 🔭 Currently Working On
 
